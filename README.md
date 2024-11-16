@@ -46,7 +46,7 @@ npm start
 4. Open your browser and visit:
 
 ```bash
-http://localhost:3000
+http://localhost:5173
 ```
 
 ## Live Demo
